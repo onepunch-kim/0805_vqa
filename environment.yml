@@ -1,0 +1,15 @@
+name: 0805_vqa
+channels:
+  - defaults
+dependencies:
+  - colorlog
+  - h5py
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pillow
+  - python=3.7
+  - tensorflow-gpu=1.15
+  - pip:
+    - progressbar
+
