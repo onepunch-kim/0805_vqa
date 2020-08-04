@@ -80,7 +80,7 @@ $ python evaler.py --dataset_path Sort-of-CLEVR_default --model rn --train_dir d
 
 *train_dir* 파라미터는 ```train_dir/baseline-Sort-of-CLEVR_default_lr_0.001-20170619-040301``` 와 같은 형태를 가집니다.
 
-## Related works
+## Related Work
 
 * [A Simple Neural Network Module for Relational Reasoning](https://arxiv.org/abs/1706.01427)
 * [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
